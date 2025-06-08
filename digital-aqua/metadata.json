@@ -1,0 +1,6 @@
+{
+  "name": "Digital Aqua",
+  "description": "An application for aquafarmers to monitor water quality by uploading test reports, get AI-powered analysis and suggestions using Gemini API, track historical data, and receive weather-based insights to optimize farm management.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
